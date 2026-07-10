@@ -97,6 +97,4 @@
 
 ---
 
-<div align="center">
-  <i>Made with ❤️ using GPRM</i>
-</div>
+
