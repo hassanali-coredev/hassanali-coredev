@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jafferi Ali</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Hassan Ali</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;Database+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+ASP.NETCore+Developer;Database+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on **ASP.NET Core MVC & Web API projects**
 - 🌱 I'm currently learning **Advanced SQL, Database Administration & Cloud Technologies**
 - 💬 Ask me about **C#, ASP.NET Core, SQL Server, React, and Full Stack Development**
-- 📫 How to reach me: **email@gmail.com**
+- 📫 How to reach me: **hassanali.exe5@gmail.com**
 - ⚡ Fun fact: **I believe clean code is not written, it is rewritten.**
 
 ---
