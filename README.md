@@ -74,11 +74,7 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=hassanali-coredev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
-  <p align="center">
-  ## Top Languages
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanali-coredev&layout=compact&theme=github_dark)
-  </p>
+  
   <br/>
   <img src="https://streak-stats.demolab.com/?user=hassanali-coredev&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
