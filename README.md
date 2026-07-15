@@ -74,7 +74,9 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=hassanali-coredev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hassanali-coredev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanali-coredev&layout=compact&theme=dark" alt="Top Languages" />
+</p>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=hassanali-coredev&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
