@@ -74,7 +74,9 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=hassanali-coredev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
-  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hassanali-coredev&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  </p>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=hassanali-coredev&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
