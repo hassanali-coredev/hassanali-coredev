@@ -72,11 +72,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jafferiali456-DotNetCore&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=hassanali-coredev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jafferiali456-DotNetCore&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hassanali-coredev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=jafferiali456-DotNetCore&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hassanali-coredev&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -92,7 +92,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jafferiali456-DotNetCore&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hassanali-coredev&icon=0&color=0" alt="Profile Views" />
 </p>
 
 ---
